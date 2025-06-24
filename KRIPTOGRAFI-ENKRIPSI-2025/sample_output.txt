@@ -1,0 +1,9 @@
+=== Caesar Cipher ===
+Pesan asli   : Halo Dunia!
+Terenkripsi  : Kdor Gxqld!
+Terdekripsi  : Halo Dunia!
+
+=== Vigenère Cipher ===
+Pesan asli   : Halo Dunia!
+Terenkripsi  : Yiij Xnmnr!
+Terdekripsi  : Halo Dunia!
