@@ -6,3 +6,17 @@ Contoh paling terkenal: **Vigenère Cipher**, namun ada juga:
 - Beaufort Cipher
 - Autokey Cipher
 - Porta Cipher
+
+
+## 📌 Algoritma yang Tersedia
+
+- Caesar Cipher (Monoalphabetic)
+- Vigenère Cipher (Polyalphabetic)
+- Beaufort Cipher
+- Autokey Cipher
+
+## 🔄 Operasi
+- Enkripsi
+- Dekripsi
+
+Semua algoritma tersedia dalam versi CLI dan GUI Tkinter.
